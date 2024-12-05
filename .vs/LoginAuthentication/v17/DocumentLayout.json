@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Migrations\\20241205062018_Migration inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginAuthentication\\Migrations\\20241205062018_Migration inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Migrations\\20241205090714_Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginAuthentication\\Migrations\\20241205090714_Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\models\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\models\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|c:\\users\\eduardo\\desktop\\login e senha\\loginauthentication\\loginauthentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22F4914-6E8F-41D8-832B-B2E0D83B0C0E}|LoginAuthentication\\LoginAuthentication.csproj|solutionrelative:loginauthentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +50,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241205062018_Migration inicial.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Migrations\\20241205062018_Migration inicial.cs",
-              "RelativeDocumentMoniker": "LoginAuthentication\\Migrations\\20241205062018_Migration inicial.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Migrations\\20241205062018_Migration inicial.cs",
-              "RelativeToolTip": "LoginAuthentication\\Migrations\\20241205062018_Migration inicial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:20:19.02Z",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:55:53.751Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Program.cs",
-              "RelativeDocumentMoniker": "LoginAuthentication\\Program.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Program.cs",
-              "RelativeToolTip": "LoginAuthentication\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "20241205090714_Models.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Migrations\\20241205090714_Models.cs",
+              "RelativeDocumentMoniker": "LoginAuthentication\\Migrations\\20241205090714_Models.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Migrations\\20241205090714_Models.cs",
+              "RelativeToolTip": "LoginAuthentication\\Migrations\\20241205090714_Models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:17:58.202Z",
+              "WhenOpened": "2024-12-05T09:07:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LoginAuthentication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LoginAuthentication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:04:49.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LoginAuthentication\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LoginAuthentication\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T09:02:23.062Z",
               "EditorCaption": ""
             },
             {
@@ -60,28 +111,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginAuthentication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginAuthentication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:58:20.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LoginAuthentication\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Context\\AppDbContext.cs",
               "RelativeToolTip": "LoginAuthentication\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:16:34.146Z",
+              "WhenOpened": "2024-12-05T08:53:07.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\appsettings.json",
-              "RelativeDocumentMoniker": "LoginAuthentication\\appsettings.json",
-              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\appsettings.json",
-              "RelativeToolTip": "LoginAuthentication\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-05T06:14:12.69Z",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoginAuthentication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\User.cs",
+              "RelativeToolTip": "LoginAuthentication\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:44:50.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\Authentication.cs",
+              "RelativeDocumentMoniker": "LoginAuthentication\\Models\\Authentication.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\Authentication.cs",
+              "RelativeToolTip": "LoginAuthentication\\Models\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:36:30.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "LoginAuthentication\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\Registration.cs",
+              "RelativeToolTip": "LoginAuthentication\\Models\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:30:47.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordRecovery.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\PasswordRecovery.cs",
+              "RelativeDocumentMoniker": "LoginAuthentication\\Models\\PasswordRecovery.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Login e Senha\\LoginAuthentication\\LoginAuthentication\\Models\\PasswordRecovery.cs",
+              "RelativeToolTip": "LoginAuthentication\\Models\\PasswordRecovery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:31:50.72Z",
               "EditorCaption": ""
             }
           ]
